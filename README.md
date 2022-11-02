@@ -1,4 +1,4 @@
-#This folder is for the Terraform Workspace lesson code.
+#This folder is for the Terraform Workspace code.
 
 # The main.tf file contains provider and EC2 VM resources
 # and uses ${terraform.workspace} variable and logic to decide what 
